@@ -1,9 +1,4 @@
-npm install http
-npm install cheerio 
-npm install request
-npm install path
-npm install fs 
-npm install url
+npm install  http  cheerio  request  path  fs  url
 
 
   
